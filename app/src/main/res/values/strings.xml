@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Show Image</string>
+    <string name="hint_text">Double-tap n\'importe où pour afficher l\'image</string>
+    <string name="image_description">Image affichée après le double-tap</string>
+</resources>
